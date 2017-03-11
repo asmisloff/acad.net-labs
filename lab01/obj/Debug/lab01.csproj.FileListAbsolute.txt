@@ -1,0 +1,11 @@
+F:\project\autocad-utils\.net-labs\lab01\bin\Debug\lab01.dll
+F:\project\autocad-utils\.net-labs\lab01\bin\Debug\lab01.pdb
+F:\project\autocad-utils\.net-labs\lab01\bin\Debug\AcCoreMgd.dll
+F:\project\autocad-utils\.net-labs\lab01\bin\Debug\AcDbMgd.dll
+F:\project\autocad-utils\.net-labs\lab01\bin\Debug\AcMgd.dll
+F:\project\autocad-utils\.net-labs\lab01\bin\Debug\AdWindows.dll
+F:\project\autocad-utils\.net-labs\lab01\bin\Debug\AcTcMgd.dll
+F:\project\autocad-utils\.net-labs\lab01\bin\Debug\AcCui.dll
+F:\project\autocad-utils\.net-labs\lab01\obj\Debug\lab01.csprojResolveAssemblyReference.cache
+F:\project\autocad-utils\.net-labs\lab01\obj\Debug\lab01.dll
+F:\project\autocad-utils\.net-labs\lab01\obj\Debug\lab01.pdb
